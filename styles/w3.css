@@ -8,3 +8,19 @@ html,body,h1,h2,h3,h4,h5,h6 {
   bottom: 0;
   height: inherit;
 }
+
+.w3-half.w3-container.left{
+	width: 50%;
+	padding-top: 0.01em;
+	padding-right: 8px;
+	padding-bottom: 0.01em;
+	padding-left: 0px;
+}
+
+.w3-half.w3-container.right{
+	width: 50%;
+	padding-top: 0.01em;
+	padding-right: 0px;
+	padding-bottom: 0.01em;
+	padding-left: 8px;
+}

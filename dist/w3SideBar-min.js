@@ -1,0 +1,1 @@
+var mySidebar=document.getElementById("mySidebar"),overlayBg=document.getElementById("myOverlay");function w3_open(){"block"===mySidebar.style.display?(mySidebar.style.display="none",overlayBg.style.display="none"):(mySidebar.style.display="block",overlayBg.style.display="block")}function w3_close(){mySidebar.style.display="none",overlayBg.style.display="none"}

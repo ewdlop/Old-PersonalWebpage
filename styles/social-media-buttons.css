@@ -16,6 +16,11 @@
   color: white;
 }
 
+.fa-docker {
+  background: #0db7ed;
+  color: white;
+}
+
 .fa-twitter {
   background: #55ACEE;
   color: white;
@@ -119,5 +124,10 @@
 
 .fa-github{
   background: #ff6600;
+  color: white;
+}
+
+.fa-itch-io{
+  background: black;
   color: white;
 }
