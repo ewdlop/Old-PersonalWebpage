@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ewdlop/PersonalWebpage#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-clean-css": "^4.2.0",
     "gulp-csso": "^4.0.1",
     "gulp-minify": "^3.1.0",
